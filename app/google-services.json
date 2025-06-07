@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883713735115",
+    "project_id": "controlit-78cc1",
+    "storage_bucket": "controlit-78cc1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883713735115:android:4402a29ed9c8f636029e4e",
+        "android_client_info": {
+          "package_name": "com.example.controlit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBlUige6oRkcQANz6iXePp7wnNm3XfiNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
